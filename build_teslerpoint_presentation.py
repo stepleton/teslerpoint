@@ -108,7 +108,7 @@ def _define_flags():
   return flags
 
 
-# This built-in teslerpoint binary is the version released on TODO.
+# This built-in teslerpoint binary is the version released on 11 June 2024.
 _BUILT_IN_TESLERPOINT = textwrap.dedent("""\
     YAalpVpaWgBKeAgCZghH+QAAD6hgJEn6B8JI1A8AYQABQGEAAShhHGFiZ/xKOQAAD/Fn8kf5AAAP
     uHAAlcpO+QD+AIQwOQAAD+7A/AA+4YgiOAgE0oA0PAoDInoHhiB5AAAP6nY8TpEGgQAAAQBRy//2
