@@ -1,0 +1,6 @@
+[submodule "bootloader_hd"]
+	path = bootloader_hd
+	url = https://github.com/stepleton/bootloader_hd.git
+[submodule "lisa_io"]
+	path = lisa_io
+	url = https://github.com/stepleton/lisa_io.git
