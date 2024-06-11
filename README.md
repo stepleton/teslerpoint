@@ -9,7 +9,7 @@ screen of an Apple Lisa computer. It comprises:
   bitmaps directly from the hard drive to the video memory. See below for more
   information on how to use Teslerpoint on the Lisa.
 
-* [`build_teslerpoint_presentation.py](build_teslerpoint_presentation.py),
+* [`build_teslerpoint_presentation.py`](build_teslerpoint_presentation.py),
   a Python program that runs on a modern computer and assembles a collection of
   720x364 image files into a bootable Teslerpoint hard drive image. An Apple
   Lisa booting from this hard drive image will boot directly into a Teslerpoint
