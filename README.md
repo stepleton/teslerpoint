@@ -1,6 +1,13 @@
 Teslerpoint
 ===========
 
+![An Apple Lisa 1 running Teslerpoint; the screen shows a stylistic recreation
+of an old PowerPoint slide featuring the title "Teslerpoint", the Screen Beans
+clipart of a stick figure having a "light bulb" moment, and the words "No
+Modes!" in large, bold Comic Sans. An RC2014 kit computer sits in the
+foreground for no particular reason.](splash.jpg "An Apple Lisa 1 running
+Teslerpoint and displaying a stylistic recreation of an old PowerPoint slide.")
+
 Teslerpoint is a slide carousel system that displays bitmap images on the
 screen of an Apple Lisa computer. It comprises:
 
